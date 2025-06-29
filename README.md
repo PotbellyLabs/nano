@@ -21,6 +21,7 @@ This project demonstrates:
 │       ├── embeddings.py    # Text → Vector conversion
 │       ├── rag_engine.py    # Main RAG logic
 │       └── vector_store.py  # Vector database interface
+├── percipientlab_sandbox/   # Creative documents and experimental tools
 ├── requirements.txt         # Python dependencies
 ├── start_rag.sh            # Server startup script
 └── .env                    # API keys (private)
@@ -93,5 +94,12 @@ Each component has its own detailed README:
 - Each text chunk becomes a 384-dimensional vector!
 
 Remember: Learning is a journey, not a destination. Have fun experimenting! 🚀
+
+## PercipientLab Sandbox
+
+This repository now includes a `percipientlab_sandbox/` folder containing
+creative drafts, experimental metrics and the beginnings of the Whisper
+Archive. Start exploring in `percipientlab_sandbox/docs/` to see the latest
+artifacts.
 
 
